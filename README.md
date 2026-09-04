@@ -145,7 +145,7 @@ Download and install **XAMPP** with:
 Open your terminal:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/APEX-SHOPPING.git
+git clone https://github.com/Ajju1020/APEX-SHOPPING.git
 ```
 
 Move the project into:
